@@ -1,2 +1,2 @@
-# kaggle_regression_bikes
-Kaggle competition: Bike Sharing Demand
+# Kaggle regression bikes
+Kaggle competition: [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
